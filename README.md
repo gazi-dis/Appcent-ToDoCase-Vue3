@@ -10,7 +10,9 @@
   > * **Live environment's response status  may be  taken a few seconds. Becasue ı used heroku standart plan this project.**
  
  ## Screenshot
- ![alt text](https://raw.githubusercontent.com/gazi-dis/Appcent-ToDoCase-Vue3/main/screenshots/home.png)
+ > ![alt text](https://raw.githubusercontent.com/gazi-dis/Appcent-ToDoCase-Vue3/main/screenshots/main.png)
+ > ----
+ > ![alt text](https://raw.githubusercontent.com/gazi-dis/Appcent-ToDoCase-Vue3/main/screenshots/home.png)
 
 ## Project Installation
 ```sh
