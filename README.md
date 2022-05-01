@@ -19,7 +19,7 @@
 npm install
 npm run serve
 or
-npm run serve -- --port3333
+npm run serve -- --port 3333
 ```
 ### For production environments...
 
